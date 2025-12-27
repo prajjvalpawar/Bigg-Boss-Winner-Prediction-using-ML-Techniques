@@ -46,4 +46,4 @@ The dataset contains historical Bigg Boss contestant data from previous seasons,
 2. Run the cells step by step to train the model and see predictions.  
 3. For future season prediction, create sample contestant data and run the prediction cells.
 
-Created by: **Prajjval Pawar | B.tec CSE, 2026**
+Created by: **Prajjval Pawar | B.Tech CSE, 2026**
